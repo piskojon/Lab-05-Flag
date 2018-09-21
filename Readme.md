@@ -16,6 +16,7 @@ Requirements:
 * Each `print` or `println` statement can only output one character at a time.
 * Come up with a name for your country and include that in the output.
 * Copy and paste your output into the Readme.md file in the appropriate place below.
+* There are no tests for this lab, but make sure it passes Checkstyle.
 
 ## Sample output
 (note that this only has one pattern so it doesn't meet all of the requirements)
