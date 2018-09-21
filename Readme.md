@@ -41,6 +41,10 @@ paste your country name and flag here
 It needs to be between the lines of \`\`\` for proper formatting
 ```
 
+## Relevant ThinkJava Sections
+* [Loops](http://greenteapress.com/thinkjava6/html/thinkjava6008.html)
+* [Conditionals and Logic](http://greenteapress.com/thinkjava6/html/thinkjava6006.html)
+
 ## Notes
 * The Checkstyle config url is http://www.daveavis.com/cs/checkstyle_SHS.xml
 * Make sure you modify the link at the top of your **Readme.md** to reflect your username if you want the badge at the top to represent the status of your code.
