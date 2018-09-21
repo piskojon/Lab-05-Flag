@@ -38,7 +38,7 @@ The Flag of Avistan
 ## Your Flag
 ```
 paste your country name and flag here
-It needs to be between the lines of \`\`\` for proper formatting
+It needs to be between the lines of ``` for proper formatting
 ```
 
 ## Relevant ThinkJava Sections
